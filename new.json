@@ -1,6 +1,6 @@
 {
-	"fio", "Malko Oleksandr"
-	"age", 42
-	"pet", 1
-	"salary", 750
+	"fio"		: "Malko Oleksandr",
+	"age"		: 42,
+	"pet"		: 1,
+	"salary"	: 750
 }
