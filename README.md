@@ -36,10 +36,10 @@ touch new.json
 vim new.json
 
 {
-	"fio"		: "Malko Oleksandr",
-	"age"		: 42,
-	"pet"		: 1,
-	"salary"	: 750
+	"fio" : "Malko Oleksandr",
+	"age" : 42,
+	"pet" : 1,
+	"salary" : 750
 }
 ```
 ***8. Отправить изменения на внешний репозиторий***
@@ -57,11 +57,11 @@ git push
 vim preferences.json
 
 {
-	"Film" 				: "The Social Network",
-	"TV series" 		: "Silicon Valley",
-	"Favorite food" 	: "Borsch",
-	"Favorite season" 	: "Spring",
-	"Country" 			: "USA"
+	"Film" : "The Social Network",
+	"TV series" : "Silicon Valley",
+	"Favorite food" : "Borsch",
+	"Favorite season" : "Spring",
+	"Country" : "USA"
 }
 ```
 
