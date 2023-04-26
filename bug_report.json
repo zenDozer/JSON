@@ -1,0 +1,12 @@
+{
+  "ID" : "LF-001",
+  "Summary" : "The Login button should be blue - not red",
+  "Severity" : "Minor",
+  "Priority" : "Low",
+  "Environment" : "PC, Windows 11, Chrome",
+  "Steps to reproduce" : "Open example_site.com, click on sign in button",
+  "Expected result" : "Login button is blue",
+  "Actual result" : "Login button is red",
+  "Attachments" : "Screenshot.jpg",
+  "Reported By" : "Oleksandr Malko"
+}
